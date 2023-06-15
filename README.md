@@ -2,16 +2,18 @@
 
 Treinamento criação de API's e estudo de boas práticas para um desenvolvimento seguro.
 
-## secdev
+## Secdev
 
 Este repositório será atualizado, sempre que eu obter um conhecimento novo para um bom desenvolvimento.
 
 
-- [ :heavy_check_mark: :writing_hand: ] : Validação de entrada
-- [ :writing_hand: ] : Autenticação
-- [ :writing_hand: ] : Autorização
-- [ :writing_hand: ] : Proteção contra ataques de força bruta
-- [ :writing_hand: ] : Tratamento adequado de erros e exceções
-- [ :writing_hand: ] : Criptografia
-- [ :writing_hand: ] : Gerenciamento de dependências e atualizações
-- [ :writing_hand: ] : Logging e monitoramento
+#Estes são os tópicos que estarei constantemente estudando:
+
+-  Validação de entrada
+-  Autenticação
+-  Autorização
+-  Proteção contra ataques de força bruta
+-  Tratamento adequado de erros e exceções
+-  Criptografia
+-  Gerenciamento de dependências e atualizações
+-  Logging e monitoramento
