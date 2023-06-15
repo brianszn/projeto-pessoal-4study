@@ -1,1 +1,1 @@
-mkvirtualenv 4study -p python3.10
+.... mkvirtualenv 4study -p python3.10
