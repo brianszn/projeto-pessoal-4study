@@ -7,7 +7,7 @@ Treinamento criação de API's e estudo de boas práticas para um desenvolviment
 Este repositório será atualizado, sempre que eu obter um conhecimento novo para um bom desenvolvimento.
 
 
-## Estes são os tópicos que estarei constantemente estudando:
+## Tópicos que estarei constantemente estudando:
 
 -  Validação de entrada
 -  Autenticação
